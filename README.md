@@ -18,3 +18,6 @@ Billing Item details that contain details of the bills for calls made, messages 
 Order contains order information for a new customer. It should have the order number, plan, customer details, estimated monthly payment e.t.c
 Invoice contains information about particular order information. It should have the details of the order, the amount to pay and any relevant fields for the invoice e.t.c
 Payment contains all the payments made by a customer. Should be dated i.e. payment date, the amount paid and month/duration of the payment period.
+
+see link to view my org
+https://emekaokeke-dev-ed.lightning.force.com/lightning/page/home
